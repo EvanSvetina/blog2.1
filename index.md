@@ -40,8 +40,6 @@ comments: true
     #b:hover, #b:active {
     background-color: purple;
     }
-    
-
 </style>
 </head>
 <body>
