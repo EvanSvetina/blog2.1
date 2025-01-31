@@ -1,9 +1,9 @@
-title: Nighthawk Pages 
-description: "Class of 2025"
-owner_name: John Mortensen
-github_username: nighthawkcoders
-github_repo: "student_2025" 
-baseurl: "/student_2025"
+title: Evan's Goofy Ahh Blog 2.1
+description: "CSSE 1 & 2 student"
+owner_name: Evan Svetina
+github_username: EvanSvetina
+github_repo: "blog2.1" 
+baseurl: "/index"
 future: true
 remote_theme: jekyll/minima
 minima:
@@ -13,7 +13,7 @@ minima:
     - { platform: x, user_url: "https://x.com/NighthawkCoding/" }
     - { platform: youtube, user_url: "https://www.youtube.com/@nighthawkcodingsociety2868" } 
 # remote_theme: pages-themes/midnight@v0.2.0
-# remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: pages-themes/minimal@v0.2.0
 # remote_theme: pages-themes/time-machine@v0.2.0
