@@ -9,7 +9,7 @@ permalink: /csse1-final/
 <h2>5 Core Skills I Learned</h2>
 <ul>
     <li>GitHub experience/Understanding of branches, pull reqs, issues, etc.</li>
-    <li>Reinforces JS fundamentals I already knew, new knowledge such as For loops.</li>
+    <li>Issues and variables lesson teach</li>
     <li>Tools installation, verification, etc.</li>
     <li>Use of .md, .html, and other such file types to create fucntioning, interactive webpages</li>
     <li>Collaboration and communcation skills for group projects</li>
