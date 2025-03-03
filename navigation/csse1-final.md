@@ -1,12 +1,11 @@
 ---
 comments: false
 layout: page
-title: CSSE1 Final Exam
-description: Final examination and assignment for CSSE1
+title: CSSE1 Restospective
+description: Final assignment and reflection for CSSE1
 author: Evan Svetina
 permalink: /csse1-final/
 ---
-<h1>Final Exam CSSE1</h1>
 <h2>5 Core Skills I Learned</h2>
 <ul>
     <li>GitHub experience/Understanding of branches, pull reqs, issues, etc.</li>
