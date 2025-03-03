@@ -1,14 +1,11 @@
 ---
 comments: false
-layout: post
+layout: page
 title: CSSE1 Final Exam
-description: Finl examination and assignment for CSSE1
+description: Final examination and assignment for CSSE1
 author: Evan Svetina
-permalink: /navigation/finalCSSE1.md
-categories: [Foundation]
+permalink: /csse1-final/
 ---
-
-
 <h1>Final Exam CSSE1</h1>
 <h2>5 Core Skills I Learned</h2>
 <ul>

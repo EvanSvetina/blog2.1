@@ -44,7 +44,8 @@ comments: true
 </head>
 <body>
 <h1>FINALS LINK:</h1>
-<h3><a href="https://github.com/EvanSvetina/blog2.1/blob/main/navigation/finalCSSE1.md">Final - CSSE1</a></h3>
+<h3><a href="{{ site.baseurl }}/csse1-final/">CSSE1 Final Exam</a></h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     <h1> What's up gang! </h1>
         <b1> 
     I like the following things:
@@ -60,8 +61,8 @@ comments: true
 <br><button>Useless Button that Doesn't Do Anything</button>
 <br><a id="b" href="https://www.youtube.com/watch?v=bv__9O5CZok" target="_blank">Do not click</a>
 <h2> Here's the necessary progress monitoring section.</h2>
-<b2><br><a href="https://evansvetina.github.io/CSSEproj1/devops/tools/verify" target="_blank">Link to Tools: Verify</a>
-<br><a href="https://evansvetina.github.io/CSSEproj1/devops/github/pages/play" target="_blank">Link to Tools: Play</a></b2>
+<b2><br><a href="https://evansvetina.github.io/blog2.1/devops/tools/verify" target="_blank">Link to Tools: Verify</a>
+<br><a href="https://evansvetina.github.io/blog2.1/devops/github/pages/play" target="_blank">Link to Tools: Play</a></b2>
 <br><p>im slowly dying
 <br>
 This initial breakthrough has helped me create this silly little blog, and I'm excited for the future I have in this class!</p>
