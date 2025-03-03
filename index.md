@@ -43,6 +43,8 @@ comments: true
 </style>
 </head>
 <body>
+<h1>FINALS LINK:</h1>
+<h3><a href="https://github.com/EvanSvetina/blog2.1/blob/main/navigation/finalCSSE1.md">Final - CSSE1</a></h3>
     <h1> What's up gang! </h1>
         <b1> 
     I like the following things:

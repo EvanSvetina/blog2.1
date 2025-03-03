@@ -18,12 +18,12 @@ let foodEaten = false;
 let coinFlipNum = Math.floor(2 * Math.random());
 let coin;
 
-if (coinFlipNum = 0){
+if (coinFlipNum === 0){
     coin = "heads"; //determine if coin is heads or tails
 } else {
     coin = "tails";
 }
-if (coin = "heads"){ //if heads, do what person 1 wants
+if (coin === "heads"){ //if heads, do what person 1 wants
     console.log(person1.whoWon);
     if (person1.money >= 10){ //food event checker. are you wealthy enough to buy food for both people?
         person1.money -= 10;

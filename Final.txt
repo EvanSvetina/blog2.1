@@ -1,0 +1,36 @@
+Retrospective Final Exam (5 points)
+The final starts now.  For the remaining days or Trimester, you are doing what is called a Retrospective.  
+This is where an agile team or individual reflects on a project or sprint and plans for improvement. 
+Retrospectives are held at regular intervals to promote continuous improvement.  
+This retrospective will conclude with a pair Live Review and the review will include the Teacher and your TA (Rachit or Tanisha).
+
+
+All things should be centered on personal blog, including game.
+
+ 
+DONE 1 point - 5 key things that show what you did over 12 weeks, Tools and Skills learned, Issues created, Burn downs accomplished, Lesson(s) taught, Live Reviews presentation(s), GitHub analytics.
+
+DONE 1 point - RPG Game Tinkers (3 or more)
+
+DONE 1 point - RPG Game Tinkers write up, Jupyter notebook style reflection on of code understanding, also drawIO diagram should be included.
+THESE ARE BOTH ON GAME WEBSITE WHICH MORT SAYS IS OK
+
+DONE 1 point -  N@tM feedback from your demo, we are hoping for adult feedback or more advanced Computer Science student feedback (5 - 10 points of feedback) *FORM
+
+
+The 5th point comes from ability to impress me through reflection and looking forward (Retrospective).
+
+DONE Taking extreme interests in other projects and people, ie N@tM reviews, chronicle the event for you, personalization
+
+
+DONE Thinking what you could do next in CompSci: CSSE2, future interests, classes, college, internships, career.
+
+DONE Reflection on individual strengths, weaknesses
+
+DONE Reflection on project by creating next steps plans, strengths, weaknesses
+
+Sending summary of what your pair will be talking about 24 hours in advance of Live review in multi-person DM (you, pair, Teacher, TA).
+
+Include in summary honest self grade assessment on point related topics, including reasoning.
+
+Being able to highlight all 5 points, as a pair in 4 minutes of Live Review.
