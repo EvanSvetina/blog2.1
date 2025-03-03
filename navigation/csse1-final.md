@@ -33,7 +33,7 @@ The main points of feedback we recieved fell into one of three main categories (
     </ul>
     <li>Aesthetihawk</li>
     <ul>
-        <li>Improves NIghthawk Pages look significantly</li>
+        <li>Improves Nighthawk Pages look significantly</li>
         <li>Customization and integration into websites is smooth</li>
     </ul>
 </ul>
