@@ -45,7 +45,7 @@ comments: true
 <body>
 <h1>FINALS LINK:</h1>
 <h3><a href="{{ site.baseurl }}/csse1-final/">CSSE1 Final Exam</a></h3>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
     <h1> What's up gang! </h1>
         <b1> 
     I like the following things:
@@ -71,7 +71,7 @@ This initial breakthrough has helped me create this silly little blog, and I'm e
 <br><a href="csse/javascript/fundamentals/iteration/hw" target="_blank">Iterations: HW</a>
 <br><a href="csse/javascript/fundamentals/iteration/Popcorn_Hacks" target="_blank">Iterations: Hax</a>
 <br><br><br>
-<h1>CS PANEL</h1>
+<h1>CSSE 1 PANEL</h1>
 <p><br>Stuff I learned/Notes to self:
 <ul>
     <li>The main appeal of CS: Project-based EVERYTHING. If you understand how your code works, even if it doesn't work yet, that's more important. Understanding the code is important, since it allows you to build off it, and fix issues.</li>
@@ -109,3 +109,4 @@ This initial breakthrough has helped me create this silly little blog, and I'm e
 
 
 
+<br><a href="{{ site.baseurl }}/navigation/cyberpanelnotes">CSSE2 Cyber Panel Notes</a>
