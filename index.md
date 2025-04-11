@@ -109,4 +109,4 @@ This initial breakthrough has helped me create this silly little blog, and I'm e
 
 
 
-<br><a href="{{ site.baseurl }}/navigation/cyberpanelnotes">CSSE2 Cyber Panel Notes</a>
+<br><a href="{{ site.baseurl }}/cyberpanelnotes/">CSSE2 Cyber Panel Notes</a>
