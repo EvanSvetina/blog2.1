@@ -42,7 +42,7 @@ comments: true
     }
 </style>
 </head>
-<body>
+</html>
 
 # New learned stuff (by panelist)
 ## David Tomasz - Intelligence analyst for the FBI. (GOVERNMENT)
@@ -77,6 +77,8 @@ comments: true
 1. CS HAS TO BE A PASSION (if you're gonna do cyber), so either run with it or stop
 2. Uses in physics likely don't full apply to everything so I don't need to be the best in the world
 3. gamedev needs networking and stuff
+<html>
+<body>
 <br><br><br><br>
     <h1> What's up gang! </h1>
         <b1> 
@@ -110,7 +112,7 @@ This initial breakthrough has helped me create this silly little blog, and I'm e
     <li>COMMENTS! COMMENTS! COMMENTS! That's how YOU know what your code does, so you can tell other people.</li>
     <li>Aside from code knowledge: communication is a critical skill, wheter it's for grading, keeping a team running effeciently, or presenting something</li>
         <ul>
-            <li>Consice and focused speaking, know what you're doing</li>
+            <li>Concise and focused speaking, know what you're doing</li>
             <li>Effective communication is just as important as good coding skills</li>
             <li>Describing a process or workflow in an easy to understand way makes a coder much more valuable</li>
             <li>Flowcharts/visual aid helps communicate ideas better</li>
