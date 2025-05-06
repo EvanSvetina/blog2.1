@@ -42,6 +42,7 @@ comments: true
     }
 </style>
 </head>
+<br><a href="navigation/valfight.md">test</a>
 </html>
 
 # New learned stuff (by panelist)
