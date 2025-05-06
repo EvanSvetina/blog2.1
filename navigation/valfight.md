@@ -159,6 +159,11 @@ permalink: /valfight/
             color: #FF4136;
             font-weight: bold;
         }
+        /* Style for rare Brimstone */
+        .rare-brimstone {
+            border: 2px solid gold;
+            box-shadow: 0 0 10px gold;
+        }
     </style>
 </head>
 <body>
@@ -181,20 +186,32 @@ permalink: /valfight/
             this.name = name;
             this.health = 100+(10*Math.floor(Math.random())-10*Math.floor(Math.random()));
             this.weapon = null;
-            // Add image paths for each character
+            // Set image path with local assets
             this.imagePath = this.getImagePath(name);
             this.colorClass = this.getColorClass(name);
         }
         
         getImagePath(name) {
-            // You can replace these with actual image paths
-            const imagePaths = {
-                "Chamber": "https://static.wikia.nocookie.net/valorant/images/0/09/Chamber_icon.png",
-                "Tejo": "https://static.wikia.nocookie.net/valorant/images/8/8a/Gekko_icon.png",
-                "Brimstone": "https://static.wikia.nocookie.net/valorant/images/4/4d/Brimstone_icon.png",
-                "Iso": "https://static.wikia.nocookie.net/valorant/images/8/8c/Iso_icon.png"
-            };
-            return imagePaths[name] || ""; // Return empty string if no image found
+            // Use correct path with navigation/assets structure
+            const baseUrl = "/blog2.1/navigation/assets";
+            
+            switch(name) {
+                case "Chamber":
+                    return `${baseUrl}/chamber.png`;
+                case "Tejo":
+                    return `${baseUrl}/tejo.png`;
+                case "Brimstone":
+                    // 1% chance for alternate Brimstone image
+                    if (Math.random() < 0.01) {
+                        return `${baseUrl}/brimalt.png`;
+                    } else {
+                        return `${baseUrl}/brim.png`;
+                    }
+                case "Iso":
+                    return `${baseUrl}/iso.png`;
+                default:
+                    return "";
+            }
         }
         
         getColorClass(name) {
@@ -324,6 +341,11 @@ permalink: /valfight/
             this.players.forEach(player => {
                 player.health = 100 + (10 * Math.floor(Math.random()) - 10 * Math.floor(Math.random()));
                 player.weapon = null;
+                
+                // Reassign images to potentially get the rare Brimstone
+                if (player.name === "Brimstone") {
+                    player.imagePath = player.getImagePath("Brimstone");
+                }
             });
             this.round = 1;
             this.gameOver = false;
@@ -390,6 +412,10 @@ permalink: /valfight/
                     playerImage.src = player.imagePath;
                     playerImage.alt = `${player.name} avatar`;
                     playerImage.className = 'player-image';
+                    // Add a special class if it's the rare Brimstone image
+                    if (player.name === "Brimstone" && player.imagePath.includes("brimalt")) {
+                        playerImage.className += ' rare-brimstone';
+                    }
                     playerCard.appendChild(playerImage);
                 }
                 
