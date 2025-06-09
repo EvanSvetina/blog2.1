@@ -1,4 +1,4 @@
-title: Evan's Goofy Ahh Blog 2.1
+title: Evan's Blog 2.1
 description: "CSSE 1 & 2 student"
 owner_name: Evan Svetina
 github_username: EvanSvetina
@@ -9,8 +9,8 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
-    - { platform: github, user_url: "https://github.com/nighthawkcoders"}
-    - { platform: x, user_url: "https://x.com/NighthawkCoding/" }
+    - { platform: github, user_url: "https://github.com/opencodingsociety"}
+    - { platform: x, user_url: "https://x.com/OpenCodingSociety/" }
     - { platform: youtube, user_url: "https://www.youtube.com/@nighthawkcodingsociety2868" } 
 # remote_theme: pages-themes/midnight@v0.2.0
 remote_theme: pages-themes/cayman@v0.2.0
@@ -26,4 +26,5 @@ header_pages:
   - navigation/search.md
   - navigation/about.md
   - navigation/valfight.md
+  - navigation/final_writeup.md
   - README4YML.md
