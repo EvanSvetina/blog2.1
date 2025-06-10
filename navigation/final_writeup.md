@@ -5,8 +5,8 @@ permalink: /CSSE2T3Documentation/
 ---
 
 # CSSE2 Trimester 3 Final Documentation
-**Student:** jmortensen  
-**Period:** [Your Period]  
+**Student:** Evan Svetina  
+**Period:** 4
 **Date:** June 2025
 
 ## 1. Overview of Work & Unique Qualities
