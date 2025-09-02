@@ -200,7 +200,7 @@ permalink: /snake/
         </div>
         <!-- Game Over -->
 <div id="gameover" class="py-4 text-light">
-    <p>Sucks to Suck! Restart by <span style="color: rgb(214, 20, 15)">clicking below</span> or pressing <span style="color: rgb(214, 20, 15)">r</span></p>
+    <p>Game Over - Restart by <span style="color: rgb(214, 20, 15)">clicking below</span> or pressing <span style="color: rgb(214, 20, 15)">r</span></p>
     <a id="new_game1" class="link-alert">We Go Again!</a>
     <a id="setting_menu1" class="link-alert">Difficulty Select/Settings</a><br>
     <p class="music-credit" style="margin-top: 20px; font-size: 16px;">
@@ -260,7 +260,7 @@ permalink: /snake/
             <button class="snake-button" data-color-snake="rgb(170, 20, 230)"><span style="color:rgb(170, 20, 230)">Purple</span></button>
             </div>
             </p>
-            <p>I wonder if there's a cheat code. That would be pretty funny. I wonder if this cheat code is anything like the """""secret""""" on the about page of my blog. Hm...
+            <p>Sneaky cheat code?
             <div id="secretMessage">
                 <span style="color:rgba(0, 0, 0, 0.1)" font-size="1%">.</span>
             </div>
